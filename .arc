@@ -7,6 +7,7 @@ wonder-uvo
 get /todos
 post /todos
 post /todos/delete
+get /name
 
 @tables
 data
