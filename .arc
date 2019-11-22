@@ -4,7 +4,9 @@ wonder-uvo
 @static
 
 @http
-get /
+get /todos
+post /todos
+post /todos/delete
 
 @tables
 data
