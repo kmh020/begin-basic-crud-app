@@ -1,14 +1,10 @@
-# Warning: do not edit
-# --------------------
-# This is a generated file and will be overwritten
-
 @app
-begin-app
+wonder-uvo
+
+@static
 
 @http
-get  /todos
-post /todos
-post /todos/delete
+get /
 
 @tables
 data
